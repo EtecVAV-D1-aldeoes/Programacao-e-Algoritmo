@@ -211,7 +211,7 @@ def jogar_quiz():
 
         print(f"{idx}){p['pergunta']}")
 
-#funao para deixar as alternativas aleatorias
+#funcao para deixar as alternativas aleatorias
         alternativas = p["alternativas"][:]
         random.shuffle(alternativas)
         letras = ["A", "B", "C", "D", "E"]
