@@ -196,7 +196,7 @@ perguntas = [
 def menu():
     print("Bem vindo ao meu quiz!!")
     print("Menu de informações")
-    print("1-Menu")
+    print("1-Jogar")
     print("2-Regras")
     print("3-Encerrar")
 
