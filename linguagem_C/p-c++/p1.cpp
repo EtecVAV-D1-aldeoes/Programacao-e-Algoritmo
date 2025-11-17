@@ -16,7 +16,7 @@ int main(){
             }
         }
 
-        std::cout << "A soma dos impares ate " << num << " = " << soma << std::endl;
+        std::cout << "A soma dos numeros impares ate " << num << " = " << soma << std::endl;
 
         std::cout << "Deseja usar novamente? (s/n): ";
         std::cin >> n;
